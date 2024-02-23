@@ -428,8 +428,9 @@ header {
   margin-right: auto;
 
   img {
-    display: block;
-    margin: auto;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%);
   }
 
   .image-caption-text {
