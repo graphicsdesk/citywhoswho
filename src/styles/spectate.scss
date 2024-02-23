@@ -423,14 +423,14 @@ header {
 }
 
 .image {
-  width: 25%;
+  width: 20%;
   margin-left: auto;
   margin-right: auto;
 
   img {
     left: 50%;
     margin-right: -50%;
-    transform: translate(-50%);
+    transform: translateX(-50%);
   }
 
   .image-caption-text {
