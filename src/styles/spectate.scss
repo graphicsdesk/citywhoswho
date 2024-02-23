@@ -423,11 +423,12 @@ header {
 }
 
 .image {
-  width: 20%;
   margin-left: auto;
   margin-right: auto;
+  border: 12px solid #B22222;
 
   img {
+    width: 20%;
     left: 50%;
     margin-right: -50%;
     transform: translateX(-50%);
