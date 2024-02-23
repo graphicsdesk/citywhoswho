@@ -7,12 +7,290 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Four West Harlem and Upper West Side leaders are vying to represent the 69th New York State Assembly district in the most competitive election the district has seen in more than two decades."
+          },
+          {
+            "type": "text",
+            "value": "Assembly District 69 spans from parts of West 80th Street to West 125th Street and includes a section of Central Park. The district encompasses all of Columbia’s Morningside Heights campus."
+          },
+          {
+            "type": "text",
+            "value": "The 2024 races for New York state office will be the first time that candidates can participate in the New York State Public Campaign Finance Program, an initiative through which the state matches small donations of $5 to $250 from residents contributing to races in their districts. All of the candidates running for office in District 69 have opted into the program."
+          },
+          {
+            "type": "text",
+            "value": "The declared candidates— Carmen Quinones, Eli Northrup, Melissa Rosenberg, and Micah Lasher—are competing to fill the vacated seat of Assembly Member Daniel O’Donnell, who has represented the district since 2003. Barry Weinberg, CC ’12, first vice chair of CB9, recently suspended his campaign after declaring his candidacy in Dec. 2023."
+          },
+          {
+            "type": "text",
+            "value": "Primaries will be held on June 25. In the meantime, the candidates have attended several public forums in the area in hopes of being endorsed by one of the district’s Democratic clubs."
+          },
+          {
+            "type": "text",
+            "value": "Spectator spoke with each declared candidate in the Assembly District 69 race about why they’re running, their platform, and their priorities heading into the election season."
+          },
+          {
+            "type": "text",
+            "value": "<b>Eli Northrup</b>"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/646ERYE6PBCZZFDHBPDPHNTJPE.jpg",
+              "caption": "",
+              "credit": "Kelsea Petersen / Illustrations Editor"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Northrup, a public defender and policy director for the criminal defense practice at The Bronx Defenders, was the first candidate to announce his campaign in November."
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://www.columbiaspectator.com/city-news/2024/02/13/district-69-assembly-member-candidates-vie-for-endorsement-at-broadway-democrats-forum/\">At a public forum on Feb. 8</a>, Northrup described his professional experience in public defense as a catalyst for his campaign and preparation for the challenges of the role."
+          },
+          {
+            "type": "text",
+            "value": "“I’ve worked across the difference to actually accomplish legislative change, but a lot of what I’ve seen up there has disappointed me and frustrated me,” Northrup said. “The same dynamics that I’ve seen in the criminal court system exist in the state legislature, and that’s that people up there often seem to be more accountable to special interests than their own communities.”"
+          },
+          {
+            "type": "text",
+            "value": "Northrup said that in his experience as a public defender, he couldn’t fix the inequities he saw in the system, no matter how many cases he handled.  After moving into his current policy role five years ago, Northrup grew increasingly frustrated with the lack of progressive change he saw in the last two legislative sessions, citing a lack of progress toward passing Good Cause Eviction legislation and criminal justice reform. That frustration motivated him to run."
+          },
+          {
+            "type": "text",
+            "value": "“I’ve never really been involved in politics,” Northrup said in an interview with Spectator on Jan. 23. “I care deeply about advocacy and changing the law, but I started to feel like if we don’t have good people in the room, if we don’t have leaders in the room who have a real strong moral conviction and care and can talk to and explain things to other people, we’re just going to have the same old status quo. So that’s kind of what nudged me in the direction.”"
+          },
+          {
+            "type": "text",
+            "value": "Northrup said that safety, affordable housing, and investing in public schools and mental health services are his campaign and platform priorities."
+          },
+          {
+            "type": "text",
+            "value": "“I see these issues as all interconnected,” Northrup said. “I’m a criminal defense attorney, but if a client comes in, they might have an issue with their housing, or with immigration, or with family court, or child care. You kind of see all of the things that add up and all of the systems that play in people’s lives and how they function and how they don’t function.”"
+          },
+          {
+            "type": "text",
+            "value": "When asked about his current perspective on the community’s relationship with Columbia and what he hopes for the future, Northrup said he hopes to hold the University accountable to its surrounding community."
+          },
+          {
+            "type": "text",
+            "value": "“This neighborhood makes Columbia great, and Columbia needs to be accountable to the neighborhood,” Northrup said. “That is a relationship that I would work very hard to ensure it exists and holds Columbia accountable if it’s expanding. … It needs to be in conversation and in community and not a unilateral decision because this neighborhood gives so much to Columbia, and that partnership has to go both ways. Columbia has a lot of money and a lot of influence and access, and it needs to ensure that it’s accountable to Morningside Heights and the Upper West Side.”"
+          },
+          {
+            "type": "text",
+            "value": "By the Jan. 17 filing deadline, Northrup had fundraised more than any other candidate in the race and more than any nonincumbent candidate in the state. Looking toward the next few months, Northrup said he hopes to focus on meeting community members."
+          },
+          {
+            "type": "text",
+            "value": "“I’m going to run a progressive grassroots campaign. I’m going to seek endorsements from progressive organizations, and many of them that I work with and that know me and have seen me advocate in Albany know what I’m about,” Northrup said. “I’m going to seek to gain support from younger voters and older voters and people in the district who may not know me. I’m going to just be out. I’m going to be meeting people, and I’ll meet them where they’re at.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>Melissa Rosenberg</b>"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/NF5ZU44FKJAKDB7DQYNDJXKBWU.png",
+              "caption": "",
+              "credit": "Kelsea Petersen / Illustrations Editor"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Rosenberg, a current member of Community Board 7 and vice president of real estate at local lobbying firm Kasirer, announced her campaign in December 2023."
+          },
+          {
+            "type": "text",
+            "value": "In an interview with Spectator, Rosenberg cited her experience as one of the youngest people on the community board as well as her role at the Mayor’s Office of Management and Budget as key in her decision to run."
+          },
+          {
+            "type": "text",
+            "value": "<b>“</b>That was a big part of me wanting to run. … I’ve spent all of this time learning and getting invested in the community and gaining this experience and learning to do coalition building and consensus building,” Rosenberg said. “Putting that to work definitely made me feel more comfortable exploring running, but also my work in the policy sphere.”"
+          },
+          {
+            "type": "text",
+            "value": "For Rosenberg, pushing for affordable housing and strong tenant protections are the causes at the forefront of her campaign."
+          },
+          {
+            "type": "text",
+            "value": "“Folks have heard me talk about housing affordability, and it’s something I’m going to keep talking about over and over throughout this campaign,” Rosenberg said at the Feb. 8 forum. “We need to make sure folks can afford to pay their rents, that co-op fees are affordable.”"
+          },
+          {
+            "type": "text",
+            "value": "In addition, Rosenberg listed accessible transit, sustainability, and community safety as key issues that she is focusing her platform on. When asked for one specific issue that she would hope to fix were she elected assembly member, Rosenberg emphasized the need for an elevator at the 125th Street subway station."
+          },
+          {
+            "type": "text",
+            "value": "When asked about how she would change the communities’ current relationship with Columbia at the Feb. 8 forum, Rosenberg also cited the lack of improvements to the 125th Street station as an example of why it is important to make Columbia keep commitments it makes to the community."
+          },
+          {
+            "type": "text",
+            "value": "“We can do a lot more to push for them to keep their commitments that they made during the Manhattanville campus expansion,” Rosenberg said. “I think that takes conversations with … Columbia to ensure that they follow through on things like the affordable housing fund, on commitments to improvements to the 125th Street station.”"
+          },
+          {
+            "type": "text",
+            "value": "Rosenberg said that she also hopes not just to hold the University to its promises, but also work on “engaging them much more deeply.”"
+          },
+          {
+            "type": "text",
+            "value": "“They have a habit of really just buying any piece of real estate that goes up for sale in the district,” Rosenberg said. “So a conversation to sit down with them and think about ‘What’s your vision for this?’ and ‘What do we think the community needs, and is there overlap, and is there ways that we can help shape this?’ … We also need to look for areas of alignment.”"
+          },
+          {
+            "type": "text",
+            "value": "Looking forward, Rosenberg said her main goal and also biggest challenge leading up to the June primaries is engaging voters."
+          },
+          {
+            "type": "text",
+            "value": "“A lot of people don’t even know that there’s a primary in June—a lot of people don’t know what an assembly member is,” Rosenberg said. “So I think it’s doing that direct engagement as much as possible and trying to get out there and talk to the most people … making the case for voters why I am the right person to represent the district.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>Micah Lasher</b>"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/QR7HBEJ2ZFH2HP5OFG3A3YEQZM.jpg",
+              "caption": "",
+              "credit": "Kelsea Petersen / Illustrations Editor"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Lasher, former director of policy for Gov. Kathy Hochul,<a href=\"https://www.columbiaspectator.com/section-lead/2024/01/17/former-hochul-director-of-policy-micah-lasher-launches-campaign-for-state-assembly/\"> announced his candidacy</a> on Jan. 17."
+          },
+          {
+            "type": "text",
+            "value": "In an interview with Spectator on Feb. 15, Lasher highlighted his experience in Albany as an asset to his candidacy. Lasher began his career as a special assistant to U.S. Rep. Jerry Nadler and has spent the past decade and a half in positions ranging from director of the Mayor’s Office of State Legislative Affairs to chief of staff for the New York State attorney general. In January, Lasher stepped down as Gov. Hochul’s director of policy, a position he held since 2021, to run for the District 69 assembly seat."
+          },
+          {
+            "type": "text",
+            "value": "Upon his announcement, Lasher received a slew of high-profile Democratic endorsements, including Nadler, Manhattan Borough President Mark Levine, State Sen. Brad Hoylman-Sigal, and District 7 New York City Council member Shaun Abreu, CC ’14."
+          },
+          {
+            "type": "text",
+            "value": "If elected, he said he plans to apply his professional experience into being a “thorough legislator”—a skill Lasher praised O’Donnell for at the Broadway Democrats public forum on Feb. 8."
+          },
+          {
+            "type": "text",
+            "value": "“I think what distinguishes me is a capacity to really get under the hood on thorny policy issues and come up with creative policy solutions. That’s what I’ve been doing in a variety of roles for many years,” Lasher said. “And I think it will enable me to start tackling the issues that many of the candidates agree should be priorities from day one on the job.”"
+          },
+          {
+            "type": "text",
+            "value": "Lasher identified improvements to affordable housing, mental health care, and public education as key priorities for his campaign. With three children who attend or have attended public schools, Lasher said public education, in particular, is an issue for which he has “skin in the game.”"
+          },
+          {
+            "type": "text",
+            "value": "“I’ve worked extensively on all three of those issues over the last two years as policy director for the state,” Lasher said. “I was involved in a central way, developing both the proposed New York State Housing compact and the governor’s billion-dollar mental health plan, as well as the recent proposed plan around literacy education. So I have been thinking about and working on these issues in a deep way.”"
+          },
+          {
+            "type": "text",
+            "value": "When asked about the district’s relationship to Columbia, Lasher emphasized the overlap in the interests of residents and the University under “ideal circumstances.” Still, Lasher said that in instances where that is “not the case,” he is prepared to represent resident concerns."
+          },
+          {
+            "type": "text",
+            "value": "“I would be a forceful, strategic advocate for the residents of Morningside Heights in those circumstances when they’re not aligned with Columbia,” Lasher said. “I’m somebody who has a lot of experience in difficult negotiations. I always aim to be constructive and be respectful but strong.”"
+          },
+          {
+            "type": "text",
+            "value": "Reflecting on the decision process behind his candidacy, Lasher emphasized his stake in the district as a longtime resident and parent."
+          },
+          {
+            "type": "text",
+            "value": "“It’s hard to overstate how deeply connected I feel to this community, where I have spent"
+          },
+          {
+            "type": "text",
+            "value": "more or less my entire life,” Lasher said. “State government impacts so many of the challenges that we face more than people realize, and so the opportunity to play a role on those issues— representing the community that’s been my lifelong home—made all the sense in the world for me to pursue.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>Carmen Quinones</b>"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "10%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/LQZJFCYG7JD6VOUUGFXT7D4O4E.jpg",
+              "caption": "",
+              "credit": "Kelsea Petersen / Illustrations Editor"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Carmen Quinones, current president of the New York City Housing Authority Frederick Douglass Houses Tenant Association, <a href=\"https://www.columbiaspectator.com/city-news/2024/01/30/carmen-quinones-announces-campaign-for-state-assembly-in-district-69/\">announced </a>her candidacy on Jan. 30."
+          },
+          {
+            "type": "text",
+            "value": "Quinones ran for City Council in District 7 in 2021 representing the Black Women Lead party, but came second to Council member Shaun Abreu, CC ’14, who still holds the position. In an interview with Spectator on Feb. 16, Quinones highlighted 35 years of experience in politics on the Upper West Side, as well as her desire to write legislation and hold those in power accountable as her motivation for running for state assembly."
+          },
+          {
+            "type": "text",
+            "value": "“The state assembly is where a lot of the legislation is written and that’s where I need to be because there’s policies that are written, there’s policies that they have on … education, housing, safety, and the environment—and they’re not working,” Quinones said."
+          },
+          {
+            "type": "text",
+            "value": "Quinones said her experience living in NYCHA housing and serving as tenant association president of the Douglass houses has informed her campaign priorities. As president, Quinones noted that she is available to residents “24 hours a day” and that currently, she distributes food to 12 different housing developments, an effort that began during the COVID-19 pandemic."
+          },
+          {
+            "type": "text",
+            "value": "“My job is 24/7 and I don’t get paid for it,” Quinones said. “This is volunteer—and you know why? Because it comes from the heart. And that’s what this assembly seat means to me, it gotta come from the heart.”"
+          },
+          {
+            "type": "text",
+            "value": "Quinones said that affordable housing, sustainability, public safety, and ending mayoral control are all issues she hopes to focus her campaign on."
+          },
+          {
+            "type": "text",
+            "value": "“There’s so much going wrong in NYCHA that someone has to make different policies,” Quinones said. “The policies that exist now are not for the people that live here, and it’s not only Douglass houses—I’m talking about all of the Upper West Side, we need to do better.”"
+          },
+          {
+            "type": "text",
+            "value": "Quinones identified scaffolding as a priority she would want to look into as an assembly member. When asked about how she hopes to navigate community relations with Columbia, Quinones said that establishing and maintaining a good relationship with the University would be a primary issue."
+          },
+          {
+            "type": "text",
+            "value": "“They will be a big priority,” Quinones said of Columbia. “Especially on the Upper West side, they play a big part in a lot of stuff that we do there. … I’d like to really integrate it with the community more.”"
+          },
+          {
+            "type": "text",
+            "value": "Quinones said that in the leadup to the June primaries, she wants to stay focused on “being available” for prospective voters. Looking forward, her focus is also on fundraising—which she says the state’s public matching program will greatly aid in."
+          },
+          {
+            "type": "text",
+            "value": "“My community is filled with residents who don’t have thousands of donations, but just because they don’t have the money for donations doesn’t mean that they don’t have to be heard,” Quinones said. “So I will definitely do the best I can to bring in as much money as I can to my campaign—I’m only asking for $5 from my residents, okay, because this isn’t about money. It’s about the residents and what they need, it’s about having a voice in a democracy that doesn’t do anything for us.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>City News Editor Manuela Silva can be contacted at </i><i>manuela.silva@columbiaspectator.com</i><i>. Follow her on X </i><a href=\"https://twitter.com/manuelas957\"><i>@manuelas957.</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Head of Investigations Amira McKee can be contacted at </i><i>amira.mckee@columbiaspectator.com</i><i>. Follow her on X</i><a href=\"https://twitter.com/_amiramckee\"><i> @_amiramckee</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Meet the four candidates running for Assembly District 69",
+        "date": "February 23, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/manuela-silva/\">Manuela Silva</a> and <a href=\"https://www.columbiaspectator.com/contributors/amira-mckee/\">Amira McKee</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/NXYZM5EZ4RBXTNQF5PFN22Y6CQ.jpg",
+        "cover_caption": "Kelsea Petersen / Illustrations Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1g76mJJA5-px9scXURsBVTfaStFI7jB7rMlN1vy8r6bk/edit"
       }
     }
   }
