@@ -424,12 +424,10 @@ header {
 
 .image {
   width: 25%;
-  margin: 0 auto; /* shorthand for margin-left: auto; margin-right: auto; */
-  text-align: center; /* Center the text within the container */
+  margin-left: auto;
+  margin-right: auto;
 
   img {
-    display: block; /* Ensure the image behaves as a block element */
-    margin: 0 auto; /* Center the image within its container */
   }
 
   .image-caption-text {
@@ -439,10 +437,10 @@ header {
     margin: 7px 0 0 0;
     padding: 0 $gbody-padding / 2;
     line-height: 1.3;
-  }
 
-  .image-credit {
-    color: #999;
+    .image-credit {
+      color: #999;
+    }
   }
 }
 
